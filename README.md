@@ -14,10 +14,9 @@
 
 ## Day 2: Prompt Engineering
 ### Topics Covered : 
-- **Fundamentals:** Tokens, temperature and max tokens.
+- **Fundamentals:** Prompt Engineering, Tokens.
 - **Techniques:** Zero-shot, few-shot, n-shot, and Chain-of-Thought (CoT) prompting
 - Writing structured prompts for DevOps use cases
-- AI-generated regex, Bash scripts, Terraform, and CI/CD configurations
 
 ---
 
