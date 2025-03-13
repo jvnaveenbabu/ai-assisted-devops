@@ -1,5 +1,11 @@
 # Day-02
 
+### What is Prompt Engineering ? 
+Prompt Engineering is a skill of crafting good instruction (or "prompts") to get the best possible answers from AI model.
+
+![Prompt](../assets/prompt.png)
+
+
 ### Tokens : 
 - AI models read and generate text in tokens, not whole words. 
 - **Tokens** are small piece of text. 
@@ -16,7 +22,7 @@
 - Apple → Fruit
 - Car → ? (AI answers: Vehicle)"
 
-3. **Muti-Shot Prompting** - Providing prompt with more no. of examples 
+3. **n-Shot Prompting** - Providing prompt with more no. of examples 
 <br>
 4. **Chain-of-Thought Prompting** – Encouraging step-by-step reasoning.
 *Example:* "If a train leaves at 2 PM and takes 3 hours, what time does it arrive? Think step by step."
