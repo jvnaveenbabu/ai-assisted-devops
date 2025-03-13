@@ -64,3 +64,22 @@ Generative AI leverages Large Language models (LLMs) to **analyze** and **genera
 
 - A Large Language Model (LLM) is an advanced AI system trained on vast amounts of text data to understand, generate, and process human language
 - These models use deep learning techniques, particularly transformers (like GPT, BERT, or LLaMA), to recognize patterns, predict words, and generate human-like responses.
+
+![LLMs](../assets/LLMs-dig.png)
+
+### 4. Prompt Engineering 
+- If you want to talk with other human being language is the medium 
+- If you want to communicate with LLMs we use prompt 
+- The more relevent prompt you give the exact output you will get.
+
+### 5. AI Landscape
+
+![LLMs Landscape](../assets/landscape.png)
+
+
+### 6. Task 
+- Create a GitHub repository that contains a bash script. when executed the bash script confirms the health of a virtual machine by looking at the parameters such as cpu, disk space, memory. 
+<br>
+   
+- 💡**Please note** that the bash script should also support a command line argument named "explain", when passed, *"explain"* provides the detailed summary of the health status.
+
